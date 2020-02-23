@@ -1,0 +1,116 @@
+.navbar{
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+
+}
+.navbar-custom{
+    background: rgb(37, 1, 37);
+}
+.btn-lg{
+    background: rgb(59, 57, 57);
+   
+}
+.navbar-brand{
+    font-size: 24px;
+}
+#box{
+    padding: 10px;
+    border-radius: 3px;
+    text-align: center;
+    background-color: rgb(59, 57, 57);
+    color: #fff;
+}
+
+.btn-secondary{
+    background-color: rgb(59, 57, 57);
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    margin-top: 5px;
+}
+
+body{
+    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/papyrus-dark.png");
+    background-color: #ffffff;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+
+}
+.wrapper{
+    min-height: 100%;
+    width: 940px;
+    margin: 0 auto 0 auto;
+margin-bottom: -50px;
+}
+html, body{
+    height: 100%;
+}
+
+#full{
+    background-color: #ffffff;
+    margin-top: 25px;
+    border-radius: 2px;
+}
+#spacing{
+    margin-top: 25px;
+}
+#second{
+    background-color: #ffffff;
+}
+#third{
+background-color: #ffffff;
+}
+h1{
+    color:  rgb(59, 57, 57);
+margin-left: 15px;
+background-color: #ffffff;
+}
+
+h1:after {
+    border-bottom: 2px solid #dddddd;
+    content: '';
+    display: block;
+    width: 95%;
+    padding-top: 10px;
+  }
+
+aside{
+    padding: 15px;
+    float: left;
+}
+p{
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+color: #777777;
+line-height: 18px;
+}
+.col-md-3{
+    background-color: #ffffff;
+}
+.col-md-9{
+    background-color: #ffffff;
+}
+.form-group{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+#submit{
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+.card{
+    margin-bottom: 5px;
+}
+.card-body{
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    background: rgb(37, 1, 37);
+    color: #fff;
+}
+.footer{
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    text-align: center;
+    background: rgb(59, 57, 57);
+    border-top: 8px solid rgb(37, 1, 37);
+    line-height: 18px;
+    padding-top: 25px;
+    color: #fff;
+}
+.footer, .push{
+    height: 60px;
+}
